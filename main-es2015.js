@@ -883,7 +883,7 @@ class SharedService {
         this.http = http;
         //readonly APIUrl="http://mhavwpwebsmnc01:90/api";
         //readonly APIUrl="http://localhost:56249/api";
-        this.APIUrl = "http://breakboard.azurewebsites.net/api";
+        this.APIUrl = "https://breakboard.azurewebsites.net/api";
     }
     getBreakStatusList() {
         return this.http.get(this.APIUrl + '/BreakStatus');
