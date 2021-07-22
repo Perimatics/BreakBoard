@@ -221,7 +221,7 @@ class ShowStatusComponent {
             unSelectAllText: 'UnSelect All',
             enableCheckAll: true,
             allowSearchFilter: true,
-            itemsShowLimit: 3
+            itemsShowLimit: 1
         };
         this.refreshBreakStatusList();
         this.id = setInterval(() => {
