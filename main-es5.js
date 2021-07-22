@@ -1073,7 +1073,7 @@
         selectors: [["app-confirm-dialog"]],
         decls: 16,
         vars: 1,
-        consts: [[1, "container", 2, "width", "100%", "padding", "1px !important", "margin", "1px!important", "max-width", "100%", "justify-content", "center"], ["mat-icon-button", "", 1, "close-button", 3, "mat-dialog-close"], ["color", "warn", 1, "close-icon"], [2, "width", "10%"], [1, "mat-raised-button", 3, "click"]],
+        consts: [[1, "container", 2, "width", "100%", "padding", "1px !important", "margin", "1px!important", "max-width", "100%", "justify-content", "center"], ["mat-icon-button", "", 1, "close-button", 3, "mat-dialog-close"], ["color", "warn", 1, "close-icon"], [2, "width", "10%"], [1, "mat-raised-button", 2, "padding", "left 10px", 3, "click"], [1, "mat-raised-button", 3, "click"]],
         template: function ConfirmDialogComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1116,7 +1116,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " \xA0 \xA0 ");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "button", 4);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "button", 5);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ConfirmDialogComponent_Template_button_click_14_listener() {
               return ctx.onDismiss();
