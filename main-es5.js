@@ -1073,7 +1073,7 @@
         selectors: [["app-confirm-dialog"]],
         decls: 16,
         vars: 1,
-        consts: [["mat-icon-button", "", 1, "close-button", 3, "mat-dialog-close"], ["color", "warn", 1, "close-icon"], [1, "container", 2, "width", "100%", "padding", "1px !important", "margin", "1px!important", "max-width", "100%", "align-items", "center"], [2, "width", "10%"], [1, "mat-raised-button", 3, "click"]],
+        consts: [["mat-icon-button", "", 1, "close-button", 3, "mat-dialog-close"], ["color", "warn", 1, "close-icon"], [1, "container", 2, "width", "100%", "padding", "1px !important", "margin", "1px!important", "max-width", "100%", "justify-content", "center"], [2, "width", "10%"], [1, "mat-raised-button", 3, "click"]],
         template: function ConfirmDialogComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "button", 0);
