@@ -233,7 +233,7 @@
         };
       };
 
-      function ShowStatusComponent_tr_31_Template(rf, ctx) {
+      function ShowStatusComponent_tr_34_Template(rf, ctx) {
         if (rf & 1) {
           var _r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
@@ -249,10 +249,10 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "select", 12);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ShowStatusComponent_tr_31_Template_select_ngModelChange_4_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ShowStatusComponent_tr_34_Template_select_ngModelChange_4_listener($event) {
             var dataItem_r1 = ctx.$implicit;
             return dataItem_r1.AM_Break_Status = $event;
-          })("change", function ShowStatusComponent_tr_31_Template_select_change_4_listener() {
+          })("change", function ShowStatusComponent_tr_34_Template_select_change_4_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4);
 
             var dataItem_r1 = ctx.$implicit;
@@ -288,10 +288,10 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "select", 12);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ShowStatusComponent_tr_31_Template_select_ngModelChange_12_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ShowStatusComponent_tr_34_Template_select_ngModelChange_12_listener($event) {
             var dataItem_r1 = ctx.$implicit;
             return dataItem_r1.Lunch_Break_Status = $event;
-          })("change", function ShowStatusComponent_tr_31_Template_select_change_12_listener() {
+          })("change", function ShowStatusComponent_tr_34_Template_select_change_12_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4);
 
             var dataItem_r1 = ctx.$implicit;
@@ -327,10 +327,10 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "select", 12);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ShowStatusComponent_tr_31_Template_select_ngModelChange_20_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ShowStatusComponent_tr_34_Template_select_ngModelChange_20_listener($event) {
             var dataItem_r1 = ctx.$implicit;
             return dataItem_r1.PM_Break_Status = $event;
-          })("change", function ShowStatusComponent_tr_31_Template_select_change_20_listener() {
+          })("change", function ShowStatusComponent_tr_34_Template_select_change_20_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4);
 
             var dataItem_r1 = ctx.$implicit;
@@ -378,7 +378,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "button", 16);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ShowStatusComponent_tr_31_Template_button_click_32_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ShowStatusComponent_tr_34_Template_button_click_32_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4);
 
             var dataItem_r1 = ctx.$implicit;
@@ -619,7 +619,7 @@
       ShowStatusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
         type: ShowStatusComponent,
         selectors: [["app-show-status"]],
-        decls: 32,
+        decls: 35,
         vars: 14,
         consts: [[2, "margin-top", "5em"], ["type", "button", "data-backdrop", "static", "data-keyboard", "false", 1, "btn", "btn-primary", "float-left", "m-2", 3, "click"], [1, "table", "table-striped"], [2, "width", "140px !important"], [1, "d-flex", "flex-row"], ["placeholder", "Location", 1, "form-control", 2, "width", "90px", 3, "ngModel", "ngModelChange", "keyup"], [2, "width", "180px !important"], [2, "white-space", "nowrap", 3, "placeholder", "settings", "data", "ngModel", "ngModelChange", "onSelect", "onDeSelect", "onSelectAll"], [2, "white-space", "nowrap", "width", "80px", 3, "placeholder", "settings", "data", "ngModel", "ngModelChange", "onSelect", "onDeSelect", "onSelectAll"], [2, "background-color", "skyblue"], [4, "ngFor", "ngForOf"], [1, "columntext"], ["matNativeControl", "", "required", "", 2, "border", "0!important", "background-color", "transparent", "padding", "0!important", "margin", "0!important", "width", "90px", "border-radius", "5px", "font-size", "large", 3, "ngModel", "ngStyle", "ngModelChange", "change"], ["value", "Taken"], ["value", "Missed"], ["value", "Ready"], ["type", "button", 1, "btn", "btn-light", "mr-1", 3, "click"], ["xmlns", "http://www.w3.org/2000/svg", "width", "16", "height", "16", "fill", "currentColor", "viewBox", "0 0 16 16", 1, "bi", "bi-trash-fill"], ["fill-rule", "evenodd", "d", "M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5a.5.5 0 0 0-1 0v7a.5.5 0 0 0 1 0v-7z"]],
         template: function ShowStatusComponent_Template(rf, ctx) {
@@ -716,59 +716,65 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "th");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "tr", 9);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "th");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "th", 3);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " Location");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "th");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "th", 6);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "tr", 9);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, " AM Break Status ");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "th", 3);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "th", 6);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, " Lunch Break Status");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, " Location");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "th", 6);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "th", 6);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " PM Break Status");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "th");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Status");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, " AM Break Status ");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "th");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "th", 6);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, "Out Room");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "th");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "Options");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, " Lunch Break Status");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "th", 6);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, " PM Break Status");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "th");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, "Status");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "th");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "Out Room");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "th");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Options");
+
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "tbody");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](31, ShowStatusComponent_tr_31_Template, 35, 21, "tr", 10);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "tbody");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](34, ShowStatusComponent_tr_34_Template, 35, 21, "tr", 10);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -792,7 +798,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("placeholder", "PM Breaks")("settings", ctx.dropdownSettings)("data", ctx.amstatus)("ngModel", ctx.selectedPMStatus);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](17);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](20);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.BreakStatusList);
           }
