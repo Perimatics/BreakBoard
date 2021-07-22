@@ -246,7 +246,7 @@ class ShowStatusComponent {
         const dialogConfig = new _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogConfig"]();
         dialogConfig.direction = "ltr";
         dialogConfig.autoFocus = true;
-        dialogConfig.width = "40%";
+        dialogConfig.width = "50%";
         dialogConfig.height = "65%";
         dialogConfig.panelClass = "my-full-screen-dialog";
         //  dialogConfig.data = {       
@@ -263,7 +263,7 @@ class ShowStatusComponent {
         const dialogConfig = new _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogConfig"]();
         dialogConfig.direction = "ltr";
         dialogConfig.autoFocus = true;
-        dialogConfig.width = "22%";
+        dialogConfig.width = "18%";
         dialogConfig.height = "25%";
         dialogConfig.panelClass = "my-full-screen-dialog";
         dialogConfig.data = {
