@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\SS\BreakBoard\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\Medivision\BreakBoard\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
