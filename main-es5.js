@@ -1002,7 +1002,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "h1");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Break Board: HCA Healthcare1");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Break Board: HCA Healthcare");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
