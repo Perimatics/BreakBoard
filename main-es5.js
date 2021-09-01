@@ -1904,7 +1904,7 @@
 
           this.http = http; //readonly APIUrl="http://mhavwpwebsmnc01:90/api";
 
-          this.APIUrl = "http://localhost:52379/api";
+          this.APIUrl = "https://breakboardapp.azurewebsites.net/api";
         }
 
         _createClass(SharedService, [{
